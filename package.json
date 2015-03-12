@@ -1,0 +1,31 @@
+{
+  "name": "webrobot",
+  "version": "0.1.0",
+  "description": "A small library to provide methods to create accounts into many web sites. Also provides tools to create your own web robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelcjalmeida/webrobot"
+  },
+  "keywords": [
+    "robot"
+  ],
+  "author": "Miguel Almeida <darkmagusbr@gmail.com>",
+  "licenses": [
+    {
+      "type": "ISC",
+      "url": "https://github.com/miguelcjalmeida/webrobot/blob/master/LICENSE-ISC"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/miguelcjalmeida/webrobot/issues"
+  },
+  "homepage": "https://github.com/miguelcjalmeida/webrobot",
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
