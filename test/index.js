@@ -3,7 +3,7 @@ var should = require('chai').should(),
     create = webrobot.create;
 
 describe('#create', function() {
-  it('logs Hello world', function() {
-    create().should.equal('hello world');
+  it('gets the yop mail library', function() {
+
   });
 });

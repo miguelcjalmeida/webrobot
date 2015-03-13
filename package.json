@@ -26,6 +26,9 @@
   "homepage": "https://github.com/miguelcjalmeida/webrobot",
   "devDependencies": {
     "chai": "^2.1.1",
-    "mocha": "^2.2.1"
+    "jsdom": "^4.0.2",
+    "mocha": "^2.2.1",
+    "querystring": "^0.2.0",
+    "request": "^2.53.0"
   }
 }
